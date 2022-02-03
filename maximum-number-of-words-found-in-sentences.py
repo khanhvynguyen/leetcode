@@ -14,4 +14,3 @@ class Solution:
 
 sentences = ["please wait", "continue to fight", "continue to win"]
 print(Solution().mostWordsFound(sentences))
-print("Hello Vy")
